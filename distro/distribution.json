@@ -13,15 +13,15 @@
       "description": "제 2의 현실, 수성 온라인",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "mercuryonline.kro.kr:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "",
         "largeImageText": "제 2의 현실",
         "largeImageKey": "server-prod"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
