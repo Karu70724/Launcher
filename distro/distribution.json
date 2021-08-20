@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "Mercury",
-      "name": "수성 온라인 (1.12.2 현실경제)",
+      "name": "수성 온라인",
       "description": "제 2의 현실, 수성 온라인",
       "icon": null,
       "version": "1.0.0",
